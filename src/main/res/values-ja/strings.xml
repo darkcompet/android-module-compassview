@@ -1,0 +1,14 @@
+<!-- Resource for tool.compet.compassview -->
+<resources>
+	<string name="degrees">角度</string>
+
+	<string name="north">北</string>
+	<string name="west">西</string>
+	<string name="south">南</string>
+	<string name="east">東</string>
+
+	<string name="compass_north_short">北</string>
+	<string name="compass_east_short">東</string>
+	<string name="compass_south_short">南</string>
+	<string name="compass_west_short">西</string>
+</resources>

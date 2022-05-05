@@ -1,0 +1,14 @@
+<!-- Resource for tool.compet.compassview -->
+<resources>
+	<string name="degrees">Góc</string>
+
+	<string name="north">Phía bắc</string>
+	<string name="west">Phía tây</string>
+	<string name="south">Phía nam</string>
+	<string name="east">Phía đông</string>
+
+	<string name="compass_north_short">B</string>
+	<string name="compass_east_short">Đ</string>
+	<string name="compass_south_short">N</string>
+	<string name="compass_west_short">T</string>
+</resources>

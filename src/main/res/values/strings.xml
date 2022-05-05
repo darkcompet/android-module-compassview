@@ -1,0 +1,14 @@
+<!-- Resource for tool.compet.compassview -->
+<resources>
+	<string name="degrees">Degrees</string>
+
+	<string name="north">North</string>
+	<string name="west">West</string>
+	<string name="south">South</string>
+	<string name="east">East</string>
+
+	<string name="compass_north_short">N</string>
+	<string name="compass_east_short">E</string>
+	<string name="compass_south_short">S</string>
+	<string name="compass_west_short">W</string>
+</resources>
